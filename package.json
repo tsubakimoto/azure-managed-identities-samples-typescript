@@ -1,0 +1,20 @@
+{
+  "name": "azure-managed-identities-samples-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsubakimoto/azure-managed-identities-samples-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsubakimoto/azure-managed-identities-samples-typescript/issues"
+  },
+  "homepage": "https://github.com/tsubakimoto/azure-managed-identities-samples-typescript#readme"
+}
