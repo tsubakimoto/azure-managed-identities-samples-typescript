@@ -1,7 +1,6 @@
 const path = require('path');
 
-import * as dotenv from 'dotenv'
-dotenv.config()
+require("dotenv").config();
 
 import express from "express";
 const app: express.Express = express()
