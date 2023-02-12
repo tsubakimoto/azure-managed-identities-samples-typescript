@@ -15,7 +15,8 @@
 				"ms-vscode.vscode-node-azure-pack",
 				"octref.vetur",
 				"Vue.volar",
-				"Vue.vscode-typescript-vue-plugin"
+				"Vue.vscode-typescript-vue-plugin",
+				"esbenp.prettier-vscode"
 			]
 		}
 	},
